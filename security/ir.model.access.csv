@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+property_id,property_name,model_property,,1,1,1,1
+
+owner_id,owner_name,model_owner,,1,1,1,1
+
+tag_id,tag_name,model_tag,,1,1,1,1
+
+property_line_id,property_line_name,model_property_line,,1,1,1,1
+
+building_id,building_name,model_building,,1,1,1,1

@@ -1,0 +1,15 @@
+<odoo>
+<!--    <record id="property_report" model="ir.actions.report">-->
+<!--        <filed name="name">Property Report</filed>-->
+<!--        <field name="model">property </field>-->
+<!--        <field name="report_type">qweb-pdf</field>-->
+<!--        <field name="binding_model_id" ref="model_property"/>-->
+<!--        <field name="binding_type">report</field>-->
+<!--        <field name="report_name">test_app.property_report_template</field>-->
+<!--    </record>-->
+
+<!--    <template id="property_report_template">-->
+
+<!--    </template>-->
+</odoo>
+
